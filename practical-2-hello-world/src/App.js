@@ -1,12 +1,11 @@
-import React from 'react';
+import React from "react";
 
 function App() {
-    return ( <
-        div >
-        <
-        h1 > Hello World < /h1> <
-        p > My first React application < /p> < /
-        div >
+    return ( 
+	<div>
+        <h1> Hello World < /h1> 
+        <p> My first React application </p > { " " } 
+        </div>
     );
 }
 
